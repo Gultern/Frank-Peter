@@ -1,7 +1,7 @@
 {
-  "name": "dank-memer",
-  "version": "5.0.0",
-  "description": "A discord entertainment based bot, with an emphasis on memes.",
+  "name": "Frank Peter",
+  "version": "1.0.0",
+  "description": "Run /help to view commands... Frank Peter at your service, get rich and don't disappoint Franky.",
   "main": "memer.js",
   "scripts": {
     "linter": "semistandard --fix"
